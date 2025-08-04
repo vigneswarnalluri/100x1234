@@ -150,14 +150,14 @@ const Navigation = ({ language, setLanguage, isDark, setIsDark, user, session }:
       <div className="asn-container">
         <div className="flex items-center justify-between h-16 md:h-20 px-2 sm:px-0">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/" className="flex items-center space-x-3">
             <img 
               src="/logo.jpg" 
               alt="100XDROPSHIP Logo" 
-              width="160"
-              className="h-8 w-8 md:h-10 md:w-10"
+              width="40"
+              className="h-8 w-8 md:h-10 md:w-10 rounded-full"
             />
-            <span className="asn-headline text-xl md:text-2xl">100XDROPSHIP</span>
+            <span className="asn-headline text-xl md:text-2xl font-bold">100XDROPSHIP</span>
           </Link>
 
           {/* Desktop Navigation */}

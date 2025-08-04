@@ -23,7 +23,7 @@ const Footer = ({ language }: FooterProps) => {
   const socialLinks = [
     { 
       icon: Instagram, 
-      href: "https://www.instagram.com/advanced_solutions_network/", 
+      href: "https://www.instagram.com/100xdropship?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", 
       label: "Instagram",
       color: "hover:bg-gradient-to-r hover:from-purple-500 hover:to-pink-500"
     },

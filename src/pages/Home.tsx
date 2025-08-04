@@ -1165,7 +1165,7 @@ const Home = ({ language }: HomeProps) => {
               </Button>
             </Link>
             <a 
-              href="https://www.instagram.com/advanced_solutions_network/" 
+              href="https://www.instagram.com/100xdropship?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-background/80 hover:text-background transition-colors underline text-sm"

@@ -201,7 +201,7 @@ const Contact = ({ language }: ContactProps) => {
       icon: Instagram,
       title: "Instagram",
       details: "@100xdropship",
-      action: "https://www.instagram.com/100xdropship/"
+      action: "https://www.instagram.com/100xdropship?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
     },
     {
       icon: MapPin,
@@ -513,7 +513,7 @@ const Contact = ({ language }: ContactProps) => {
                 </div>
               </PopoverContent>
             </Popover>
-            <a href="https://www.instagram.com/100xdropship/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/100xdropship?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" className="asn-button-secondary">
                 <Instagram className="mr-2 h-5 w-5" />
                 {isHindi ? "Instagram फॉलो करें" : "Follow on Instagram"}
